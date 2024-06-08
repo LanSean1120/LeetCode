@@ -1,12 +1,10 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        l = []
+        l = [0]
         val = 0
         for i in range(len(nums)):
             val += nums[i]
             l.append(val%k)
-        if 0 in l[1:]:
-            return True
 
         d = defaultdict(list)
         for i in range(len(l)):
