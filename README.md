@@ -1,2 +1,10 @@
-Just my practice of LettCode.
-Most are written in Pyhton and I'm learning C.
+# Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/LanSean1120/LeetCode/tree/master/0069-sqrtx) |
+
+
+# Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/LanSean1120/LeetCode/tree/master/0069-sqrtx) |
