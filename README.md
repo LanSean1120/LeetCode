@@ -2,6 +2,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LanSean1120/LeetCode/tree/master/0069-sqrtx) |
+| [0009-palindrome-number](https://github.com/LanSean1120/LeetCode/tree/master/0009-palindrome-number) |
 
 
 # Binary Search
