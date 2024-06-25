@@ -3,6 +3,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/LanSean1120/LeetCode/tree/master/0069-sqrtx) |
 | [0009-palindrome-number](https://github.com/LanSean1120/LeetCode/tree/master/0009-palindrome-number) |
+| [0633-sum-of-square-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0633-sum-of-square-numbers) |
 
 
 # Binary Search
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/LanSean1120/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/LanSean1120/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
