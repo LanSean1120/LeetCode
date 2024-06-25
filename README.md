@@ -4,6 +4,7 @@
 | [0069-sqrtx](https://github.com/LanSean1120/LeetCode/tree/master/0069-sqrtx) |
 | [0009-palindrome-number](https://github.com/LanSean1120/LeetCode/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0367-valid-perfect-square](https://github.com/LanSean1120/LeetCode/tree/master/0367-valid-perfect-square) |
 
 
 # Binary Search
@@ -50,6 +51,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/LanSean1120/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/LanSean1120/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
