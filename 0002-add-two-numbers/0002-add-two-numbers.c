@@ -1,4 +1,3 @@
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -12,6 +11,19 @@ ListNode * genListNode(int val, ListNode * next){
     node->val = val;
     node->next = next;
     return node;
+}
+ListNode * re_genListNode(int val, ListNode * current){
+    ListNode * last = genListNode(val, NULL);
+    ListNode*ptr = current;
+    if(current == NULL) return last;
+    while(ptr!=NULL){
+        if(ptr->next==NULL){
+            ptr->next = last;
+            break;
+        }
+        ptr = ptr->next;
+    }
+    return current;
 }
 ListNode* reverseList(ListNode* head) {
     ListNode* prev = NULL;
@@ -34,15 +46,16 @@ ListNode* reverseList(ListNode* head) {
     head = prev;
     return head;
 }
+
 struct ListNode * addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     ListNode *ans;
     ListNode * previous = NULL;
     while(l1!=NULL && l2!=NULL){
         if(l1->val + l2->val <=9){
-            ans = genListNode(l1->val + l2->val, previous);
+            ans = re_genListNode(l1->val + l2->val, previous);
             previous = ans;
         }else{
-            ans = genListNode((l1->val + l2->val)%10, previous);
+            ans = re_genListNode((l1->val + l2->val)%10, previous);
             previous = ans;
             if(l1->next!=NULL) l1->next->val+=1;
             if(l1->next==NULL){
@@ -63,5 +76,5 @@ struct ListNode * addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         l1 = l1->next;
         l2 = l2->next;
     }
-    return reverseList(ans);
+    return ans;
 }
