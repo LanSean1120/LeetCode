@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LanSean1120/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LanSean1120/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
