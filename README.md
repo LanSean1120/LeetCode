@@ -154,9 +154,11 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/LanSean1120/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LanSean1120/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/LanSean1120/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
