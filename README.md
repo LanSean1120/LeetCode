@@ -138,11 +138,13 @@
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LanSean1120/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/LanSean1120/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
+| [2645-pass-the-pillow](https://github.com/LanSean1120/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
