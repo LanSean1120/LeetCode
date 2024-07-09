@@ -120,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -155,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 ## Greedy
@@ -189,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Queue
 |  |
