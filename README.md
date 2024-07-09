@@ -90,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -162,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -193,6 +195,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 ## Queue
 |  |
 | ------- |
