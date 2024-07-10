@@ -95,6 +95,7 @@
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Depth-First Search
@@ -160,6 +161,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
+| [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
