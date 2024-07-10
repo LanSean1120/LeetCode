@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -199,8 +200,13 @@
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 ## Queue
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
