@@ -192,10 +192,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
