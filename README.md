@@ -93,6 +93,7 @@
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -142,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
