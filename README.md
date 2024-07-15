@@ -109,6 +109,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/LanSean1120/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -168,6 +169,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
