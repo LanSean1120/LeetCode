@@ -92,6 +92,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
+| [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
+| [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -244,4 +246,8 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/LanSean1120/LeetCode/tree/master/0306-additive-number) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
