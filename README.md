@@ -92,6 +92,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/LanSean1120/LeetCode/tree/master/0068-text-justification) |
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
@@ -148,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/LanSean1120/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
@@ -170,6 +172,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/LanSean1120/LeetCode/tree/master/0068-text-justification) |
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/LanSean1120/LeetCode/tree/master/0306-additive-number) |
