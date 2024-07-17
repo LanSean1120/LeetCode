@@ -15,11 +15,9 @@ class Solution:
             if root.val in to_delete:
                 if root.left:
                     ans.append(root.left)
-                    
                 if root.right:
                     ans.append(root.right)
-                root = TreeNode()
-                return root.left
+                return 
             return root
 
 
