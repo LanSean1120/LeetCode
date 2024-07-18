@@ -96,6 +96,7 @@
 | [0200-number-of-islands](https://github.com/LanSean1120/LeetCode/tree/master/0200-number-of-islands) |
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0391-perfect-rectangle](https://github.com/LanSean1120/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -281,4 +282,8 @@
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/LanSean1120/LeetCode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
