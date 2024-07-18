@@ -111,6 +111,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0547-number-of-provinces](https://github.com/LanSean1120/LeetCode/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/LanSean1120/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/LanSean1120/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/LanSean1120/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
