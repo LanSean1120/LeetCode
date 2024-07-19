@@ -103,6 +103,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/LanSean1120/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/LanSean1120/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/LanSean1120/LeetCode/tree/master/0200-number-of-islands) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/LanSean1120/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
