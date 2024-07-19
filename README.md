@@ -182,6 +182,7 @@
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
+| [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/LanSean1120/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -217,6 +218,7 @@
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/LanSean1120/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/LanSean1120/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -253,6 +255,7 @@
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
+| [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/LanSean1120/LeetCode/tree/master/0391-perfect-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
