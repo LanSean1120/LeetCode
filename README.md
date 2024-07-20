@@ -98,6 +98,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/LanSean1120/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LanSean1120/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -270,6 +274,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -301,4 +306,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
