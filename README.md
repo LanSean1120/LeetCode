@@ -98,6 +98,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/LanSean1120/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
+| [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -183,6 +184,7 @@
 | [0273-integer-to-english-words](https://github.com/LanSean1120/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
+| [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
@@ -282,6 +284,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/LanSean1120/LeetCode/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
 ## Geometry
 |  |
 | ------- |
