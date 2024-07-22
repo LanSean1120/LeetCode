@@ -112,6 +112,7 @@
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/LanSean1120/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/LanSean1120/LeetCode/tree/master/2846-robot-collisions) |
 ## Depth-First Search
 |  |
@@ -143,6 +144,7 @@
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/LanSean1120/LeetCode/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -208,6 +211,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
