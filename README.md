@@ -109,6 +109,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LanSean1120/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/LanSean1120/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/LanSean1120/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -148,6 +149,7 @@
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/LanSean1120/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/LanSean1120/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/LanSean1120/LeetCode/tree/master/2846-robot-collisions) |
 ## Matrix
