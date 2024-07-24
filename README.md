@@ -90,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LanSean1120/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/LanSean1120/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LanSean1120/LeetCode/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
@@ -164,6 +165,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LanSean1120/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/LanSean1120/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
@@ -297,6 +299,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LanSean1120/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 | [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
