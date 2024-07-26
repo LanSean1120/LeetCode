@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LanSean1120/LeetCode/tree/master/0547-number-of-provinces) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LanSean1120/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/LanSean1120/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LanSean1120/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Queue
 |  |
 | ------- |
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/LanSean1120/LeetCode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LanSean1120/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
