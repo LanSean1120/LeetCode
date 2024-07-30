@@ -238,6 +238,7 @@
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LanSean1120/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/LanSean1120/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -272,6 +273,7 @@
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/LanSean1120/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LanSean1120/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/LanSean1120/LeetCode/tree/master/2846-robot-collisions) |
 ## Tree
@@ -304,6 +306,7 @@
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LanSean1120/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/LanSean1120/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LanSean1120/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
 | ------- |
