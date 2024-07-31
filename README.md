@@ -392,4 +392,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/LanSean1120/LeetCode/tree/master/1511-count-number-of-teams) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/LanSean1120/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
