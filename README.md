@@ -122,6 +122,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/LanSean1120/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2472-build-a-matrix-with-conditions](https://github.com/LanSean1120/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/LanSean1120/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/LanSean1120/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/LanSean1120/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
@@ -244,6 +245,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LanSean1120/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/LanSean1120/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/LanSean1120/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
