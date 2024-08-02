@@ -120,6 +120,7 @@
 | [1803-average-waiting-time](https://github.com/LanSean1120/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LanSean1120/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/LanSean1120/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LanSean1120/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/LanSean1120/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/LanSean1120/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/LanSean1120/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/LanSean1120/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LanSean1120/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
