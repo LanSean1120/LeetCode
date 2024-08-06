@@ -1,7 +1,7 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        counter = Counter(word)
-        l = [val for val in counter.values()]
+        l = Counter(word)
+        l = [val for val in l.values()]
         l.sort(reverse = True)
 
         i = 1
