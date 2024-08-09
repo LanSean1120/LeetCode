@@ -104,6 +104,7 @@
 | [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
+| [0870-magic-squares-in-grid](https://github.com/LanSean1120/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/LanSean1120/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/LanSean1120/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -167,6 +168,7 @@
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/LanSean1120/LeetCode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/LanSean1120/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LanSean1120/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/LanSean1120/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LanSean1120/LeetCode/tree/master/0200-number-of-islands) |
+| [0870-magic-squares-in-grid](https://github.com/LanSean1120/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/LanSean1120/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1342-queens-that-can-attack-the-king](https://github.com/LanSean1120/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/LanSean1120/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -238,6 +241,7 @@
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
 | [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
+| [0870-magic-squares-in-grid](https://github.com/LanSean1120/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/LanSean1120/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/LanSean1120/LeetCode/tree/master/1642-water-bottles) |
