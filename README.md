@@ -314,6 +314,7 @@
 | [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/LanSean1120/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
@@ -323,6 +324,7 @@
 | [0654-maximum-binary-tree](https://github.com/LanSean1120/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/LanSean1120/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/LanSean1120/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Dynamic Programming
@@ -356,6 +358,7 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LanSean1120/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
 | ------- |
@@ -395,6 +398,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/LanSean1120/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -437,4 +441,12 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/LanSean1120/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
