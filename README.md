@@ -93,6 +93,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/LanSean1120/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/LanSean1120/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LanSean1120/LeetCode/tree/master/0018-4sum) |
+| [0040-combination-sum-ii](https://github.com/LanSean1120/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/LanSean1120/LeetCode/tree/master/0068-text-justification) |
@@ -374,6 +375,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/LanSean1120/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/LanSean1120/LeetCode/tree/master/0306-additive-number) |
 | [0679-24-game](https://github.com/LanSean1120/LeetCode/tree/master/0679-24-game) |
