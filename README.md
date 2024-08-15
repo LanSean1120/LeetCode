@@ -107,6 +107,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LanSean1120/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/LanSean1120/LeetCode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/LanSean1120/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/LanSean1120/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/LanSean1120/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/LanSean1120/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/LanSean1120/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
+| [0890-lemonade-change](https://github.com/LanSean1120/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LanSean1120/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LanSean1120/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LanSean1120/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
