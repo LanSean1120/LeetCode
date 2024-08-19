@@ -176,6 +176,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/LanSean1120/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LanSean1120/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/LanSean1120/LeetCode/tree/master/0726-number-of-atoms) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LanSean1120/LeetCode/tree/master/0002-add-two-numbers) |
+| [0264-ugly-number-ii](https://github.com/LanSean1120/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/LanSean1120/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0335-self-crossing](https://github.com/LanSean1120/LeetCode/tree/master/0335-self-crossing) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
@@ -349,6 +351,7 @@
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LanSean1120/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LanSean1120/LeetCode/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/LanSean1120/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/LanSean1120/LeetCode/tree/master/0403-frog-jump) |
 | [0458-poor-pigs](https://github.com/LanSean1120/LeetCode/tree/master/0458-poor-pigs) |
 | [1013-fibonacci-number](https://github.com/LanSean1120/LeetCode/tree/master/1013-fibonacci-number) |
@@ -414,6 +417,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/LanSean1120/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LanSean1120/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/LanSean1120/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
