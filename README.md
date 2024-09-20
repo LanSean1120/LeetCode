@@ -278,6 +278,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LanSean1120/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/LanSean1120/LeetCode/tree/master/0068-text-justification) |
+| [0214-shortest-palindrome](https://github.com/LanSean1120/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/LanSean1120/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/LanSean1120/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/LanSean1120/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -479,4 +480,16 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LanSean1120/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LanSean1120/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LanSean1120/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LanSean1120/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
